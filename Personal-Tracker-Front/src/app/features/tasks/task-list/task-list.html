@@ -1,0 +1,18 @@
+@if(loading()) {
+  <div>Loading...</div>
+}
+
+<ul>
+  @for(task of tasks(); track task.id) {
+    <li>
+      <span [style.textDecoration]="task.isCompleted ? 'line-through' : ''">
+        {{ task.title }}
+      </span>
+      @if(!task.isCompleted) {
+        <button (click)="completeTask(task.id)">
+          Complete
+        </button>
+      }
+    </li>
+  }
+</ul>
