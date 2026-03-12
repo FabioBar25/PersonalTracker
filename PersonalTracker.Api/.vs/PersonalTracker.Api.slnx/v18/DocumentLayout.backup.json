@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{284CC594-3027-2D8A-ABDC-65F5230B093D}|PersonalTracker.Api.csproj|c:\\users\\fabiobareiro\\documents\\github\\personaltracker.api\\host\\obj\\release\\net10.0\\.netcoreapp,version=v10.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284CC594-3027-2D8A-ABDC-65F5230B093D}|PersonalTracker.Api.csproj|solutionrelative:host\\obj\\release\\net10.0\\.netcoreapp,version=v10.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284CC594-3027-2D8A-ABDC-65F5230B093D}|PersonalTracker.Api.csproj|c:\\users\\fabiobareiro\\documents\\github\\personaltracker.api\\personaltracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{284CC594-3027-2D8A-ABDC-65F5230B093D}|PersonalTracker.Api.csproj|solutionrelative:personaltracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonalTracker.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker.Api\\PersonalTracker.Api.csproj",
+              "RelativeDocumentMoniker": "PersonalTracker.Api.csproj",
+              "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker.Api\\PersonalTracker.Api.csproj",
+              "RelativeToolTip": "PersonalTracker.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T12:51:12.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker.Api\\Host\\obj\\Release\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "Host\\obj\\Release\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker.Api\\Host\\obj\\Release\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "Host\\obj\\Release\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:50:45.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

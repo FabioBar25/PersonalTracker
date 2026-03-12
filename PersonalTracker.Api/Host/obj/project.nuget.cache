@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZnBs3YIHjOM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker.API\\PersonalTracker.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.13\\microsoft.aspnetcore.openapi.9.0.13.nupkg.sha512",
+    "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

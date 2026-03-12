@@ -1,0 +1,8 @@
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker.Api\obj\Debug\net10.0\PersonalTracker.Api.csproj.AssemblyReference.cache
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker.Api\obj\Debug\net10.0\PersonalTracker.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker.Api\obj\Debug\net10.0\PersonalTracker.Api.AssemblyInfoInputs.cache
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker.Api\obj\Debug\net10.0\PersonalTracker.Api.AssemblyInfo.cs
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker.Api\obj\Debug\net10.0\PersonalTracker.Api.csproj.CoreCompileInputs.cache
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker.Api\obj\Debug\net10.0\PersonalTracker.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker.Api\obj\Debug\net10.0\PersonalTracker.Api.MvcApplicationPartsAssemblyInfo.cache
