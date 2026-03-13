@@ -23,7 +23,15 @@ export const AuthStore = signalStore(
           patchState(store, { token })
         })
       )
-    )
+    ),
+    register: rxMethod<{ email: string; password: string }>(
+      pipe(
+        switchMap(credentials => api.register(credentials)),
 
-  }))
-)
+        tap(token => {
+          localStorage.setItem('token', token)
+          patchState(store, { token })
+      }))
+    )
+  }
+)))
