@@ -8,5 +8,6 @@ namespace Manager.Contract
 {
     internal class IAuthManager
     {
+        public IAuthManager() { }
     }
 }

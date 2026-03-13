@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using PersonalTracker.Api.Models;
 
 public class AppDbContext : IdentityDbContext
 {

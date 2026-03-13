@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\PersonalTracker.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53E78621-FC51-7855-2D21-D03D27053779}|..\\Manager\\Manager.csproj|c:\\users\\fabiobareiro\\documents\\github\\personaltracker\\personaltracker-api\\manager\\contract\\iauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58529F92-2656-0CF3-6890-CA5E797B3782}|..\\Access.Common\\Access.Common.csproj|c:\\users\\fabiobareiro\\documents\\github\\personaltracker\\personaltracker-api\\access.common\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53E78621-FC51-7855-2D21-D03D27053779}|..\\Manager\\Manager.csproj|c:\\users\\fabiobareiro\\documents\\github\\personaltracker\\personaltracker-api\\manager\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -12,19 +12,16 @@
       "AbsoluteMoniker": "D:0:0:{53E78621-FC51-7855-2D21-D03D27053779}|..\\Manager\\Manager.csproj|c:\\users\\fabiobareiro\\documents\\github\\personaltracker\\personaltracker-api\\manager\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53E78621-FC51-7855-2D21-D03D27053779}|..\\Manager\\Manager.csproj|c:\\users\\fabiobareiro\\documents\\github\\personaltracker\\personaltracker-api\\manager\\manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{58529F92-2656-0CF3-6890-CA5E797B3782}|..\\Access.Common\\Access.Common.csproj|c:\\users\\fabiobareiro\\documents\\github\\personaltracker\\personaltracker-api\\access.common\\taskaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58529F92-2656-0CF3-6890-CA5E797B3782}|..\\Access.Common\\Access.Common.csproj|c:\\users\\fabiobareiro\\documents\\github\\personaltracker\\personaltracker-api\\access.common\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53E78621-FC51-7855-2D21-D03D27053779}|..\\Manager\\Manager.csproj|c:\\users\\fabiobareiro\\documents\\github\\personaltracker\\personaltracker-api\\manager\\contract\\iauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{992402AA-3D2D-8B5F-898D-FA9B110AFC57}|..\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.AppHost\\Host.Orchestrator.csproj|c:\\users\\fabiobareiro\\documents\\github\\personaltracker\\personaltracker-api\\ppy.host.orchestrator\\ppy.host.orchestrator.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\Host\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58529F92-2656-0CF3-6890-CA5E797B3782}|..\\Access.Common\\Access.Common.csproj|c:\\users\\fabiobareiro\\documents\\github\\personaltracker\\personaltracker-api\\access.common\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9543D6A7-F7A9-1AD9-3A15-0FBE0FCBA2F0}|..\\Host\\Host.Api.csproj|c:\\users\\fabiobareiro\\documents\\github\\personaltracker\\personaltracker-api\\host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9543D6A7-F7A9-1AD9-3A15-0FBE0FCBA2F0}|..\\Host\\Host.Api.csproj|c:\\users\\fabiobareiro\\documents\\github\\personaltracker\\personaltracker-api\\host\\models\\dtos\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -40,9 +37,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Access.Common\\JwtService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\Host\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\Manager\\AuthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -61,6 +55,12 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Manager\\Manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.Web\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.AppHost\\AppHost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\Host\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\Host\\Program.cs",
@@ -86,42 +86,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IAuthManager.cs",
-              "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Contract\\IAuthManager.cs",
-              "RelativeDocumentMoniker": "..\\Manager\\Contract\\IAuthManager.cs",
-              "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Contract\\IAuthManager.cs",
-              "RelativeToolTip": "..\\Manager\\Contract\\IAuthManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.Web\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.Web\\Program.cs",
+              "RelativeToolTip": "..\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.Web\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T16:25:09.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Manager",
-              "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Manager.csproj",
-              "RelativeDocumentMoniker": "..\\Manager\\Manager.csproj",
-              "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Manager.csproj*",
-              "RelativeToolTip": "..\\Manager\\Manager.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-13T16:23:23.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T17:04:24.458Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AppHost.cs",
-              "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.AppHost\\AppHost.cs",
-              "RelativeDocumentMoniker": "..\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.AppHost\\AppHost.cs",
-              "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.AppHost\\AppHost.cs",
-              "RelativeToolTip": "..\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.AppHost\\AppHost.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAgwC8AAAAZAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Host\\Program.cs",
+              "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\Program.cs",
+              "RelativeToolTip": "..\\Host\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T15:48:20.292Z",
+              "WhenOpened": "2026-03-13T17:04:45.681Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -131,35 +122,35 @@
               "RelativeDocumentMoniker": "..\\Manager\\TaskManager.cs",
               "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\TaskManager.cs",
               "RelativeToolTip": "..\\Manager\\TaskManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T15:30:00.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "TaskAccessor.cs",
               "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\TaskAccessor.cs",
               "RelativeDocumentMoniker": "..\\Access.Common\\TaskAccessor.cs",
               "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\TaskAccessor.cs",
               "RelativeToolTip": "..\\Access.Common\\TaskAccessor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T15:17:06.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\JwtService.cs",
-              "RelativeDocumentMoniker": "..\\Access.Common\\JwtService.cs",
-              "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\JwtService.cs",
-              "RelativeToolTip": "..\\Access.Common\\JwtService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Access.Common\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Access.Common\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T15:16:57.96Z",
+              "WhenOpened": "2026-03-13T15:16:27.405Z",
               "EditorCaption": ""
             },
             {
@@ -170,83 +161,90 @@
               "RelativeDocumentMoniker": "..\\Manager\\AuthManager.cs",
               "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\AuthManager.cs",
               "RelativeToolTip": "..\\Manager\\AuthManager.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T13:26:47.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Access.Common\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\AppDbContext.cs",
-              "RelativeToolTip": "..\\Access.Common\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IAuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Contract\\IAuthManager.cs",
+              "RelativeDocumentMoniker": "..\\Manager\\Contract\\IAuthManager.cs",
+              "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Contract\\IAuthManager.cs",
+              "RelativeToolTip": "..\\Manager\\Contract\\IAuthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T15:16:27.405Z",
+              "WhenOpened": "2026-03-13T17:09:47.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
+              "Title": "AppHost.cs",
+              "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.AppHost\\AppHost.cs",
+              "RelativeDocumentMoniker": "..\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.AppHost\\AppHost.cs",
+              "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.AppHost\\AppHost.cs",
+              "RelativeToolTip": "..\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.AppHost\\AppHost.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T15:48:20.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CreateTaskRequest.cs",
               "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\Models\\DTOs\\CreateTaskRequest.cs",
               "RelativeDocumentMoniker": "..\\Host\\Models\\DTOs\\CreateTaskRequest.cs",
               "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\Models\\DTOs\\CreateTaskRequest.cs",
               "RelativeToolTip": "..\\Host\\Models\\DTOs\\CreateTaskRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T15:27:40.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\Models\\DTOs\\LoginRequest.cs",
               "RelativeDocumentMoniker": "..\\Host\\Models\\DTOs\\LoginRequest.cs",
               "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\Models\\DTOs\\LoginRequest.cs",
               "RelativeToolTip": "..\\Host\\Models\\DTOs\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T15:29:23.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\Domain\\TaskItem.cs",
               "RelativeDocumentMoniker": "..\\Access.Common\\Domain\\TaskItem.cs",
               "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\Domain\\TaskItem.cs",
               "RelativeToolTip": "..\\Access.Common\\Domain\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T15:23:17.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "IConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\IConfiguration.cs",
               "RelativeDocumentMoniker": "..\\Access.Common\\IConfiguration.cs",
               "ToolTip": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\IConfiguration.cs",
               "RelativeToolTip": "..\\Access.Common\\IConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T15:16:56.973Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "IConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Access.Common\\IConfiguration.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Access.Common\\IConfiguration.cs",
@@ -257,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Access.Common\\AppDbContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Access.Common\\AppDbContext.cs",
@@ -268,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "JwtService.cs",
               "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Access.Common\\JwtService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Access.Common\\JwtService.cs",
@@ -279,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "TaskManager.cs",
               "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Manager\\TaskManager.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Manager\\TaskManager.cs",
@@ -290,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "AuthManager.cs",
               "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Manager\\AuthManager.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Manager\\AuthManager.cs",
@@ -301,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "Manager.csproj",
               "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Manager\\Manager.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Manager\\Manager.csproj",
@@ -312,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "AuthManager.cs",
               "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\Manager\\AuthManager.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\Manager\\AuthManager.cs",

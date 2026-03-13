@@ -9,7 +9,7 @@
 
     public async Task<List<TaskItem>> GetTasks(string userId)
     {
-        return await _taskAccessor.GetTask(userId);
+        return await _taskAccessor.GetTasks(userId);
     }
 
     public async Task<TaskItem> CreateTask(string title, string userId)
@@ -22,7 +22,6 @@
         };
 
         await _taskAccessor.AddTask(task);
-
         return task;
     }
 

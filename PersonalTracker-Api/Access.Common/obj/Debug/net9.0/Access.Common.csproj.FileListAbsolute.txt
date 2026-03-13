@@ -8,3 +8,4 @@ C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Acces
 C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Access.Common\obj\Debug\net9.0\Access.Common.AssemblyInfo.cs
 C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Access.Common\obj\Debug\net9.0\Access.Common.csproj.CoreCompileInputs.cache
 C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Access.Common\obj\Debug\net9.0\Access.Common.sourcelink.json
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Access.Common\obj\Debug\net9.0\Access.Common.csproj.AssemblyReference.cache

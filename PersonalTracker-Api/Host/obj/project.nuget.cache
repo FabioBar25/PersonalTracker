@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vBrAUs8kVEo=",
+  "dgSpecHash": "ZMuN98z3xhU=",
   "success": true,
   "projectFilePath": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\Host.Api.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,7 @@
     "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\2.3.0\\microsoft.aspnetcore.dataprotection.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.3.0\\microsoft.aspnetcore.hosting.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.3.0\\microsoft.aspnetcore.hosting.server.abstractions.2.3.0.nupkg.sha512",
-    "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.aspnetcore.http\\2.3.0\\microsoft.aspnetcore.http.2.3.0.nupkg.sha512",
+    "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.aspnetcore.http\\2.3.9\\microsoft.aspnetcore.http.2.3.9.nupkg.sha512",
     "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.3.0\\microsoft.aspnetcore.http.extensions.2.3.0.nupkg.sha512",
     "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
@@ -54,7 +54,7 @@
     "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.extensions.telemetry\\10.1.0\\microsoft.extensions.telemetry.10.1.0.nupkg.sha512",
     "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.extensions.telemetry.abstractions\\10.1.0\\microsoft.extensions.telemetry.abstractions.10.1.0.nupkg.sha512",
     "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.extensions.webencoders\\8.0.11\\microsoft.extensions.webencoders.8.0.11.nupkg.sha512",
-    "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.net.http.headers\\2.3.0\\microsoft.net.http.headers.2.3.0.nupkg.sha512",
+    "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.net.http.headers\\2.3.8\\microsoft.net.http.headers.2.3.8.nupkg.sha512",
     "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
     "C:\\Users\\FabioBareiro\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
