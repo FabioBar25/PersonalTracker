@@ -1,0 +1,8 @@
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.Web\obj\Debug\net9.0\Host.Proxy.csproj.AssemblyReference.cache
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.Web\obj\Debug\net9.0\Host.Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.Web\obj\Debug\net9.0\Host.Proxy.AssemblyInfoInputs.cache
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.Web\obj\Debug\net9.0\Host.Proxy.AssemblyInfo.cs
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.Web\obj\Debug\net9.0\Host.Proxy.csproj.CoreCompileInputs.cache
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.Web\obj\Debug\net9.0\Host.Proxy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.Web\obj\Debug\net9.0\Host.Proxy.sourcelink.json

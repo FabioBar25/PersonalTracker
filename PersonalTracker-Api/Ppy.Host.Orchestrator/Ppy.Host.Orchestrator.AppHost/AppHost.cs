@@ -2,7 +2,7 @@ using System.Diagnostics;
 
 var builder = DistributedApplication.CreateBuilder(args);
 
-var sqlPassword = builder.AddParameter("sqlPassword", Ppy.Common.Constants.DevPassword);
+var sqlPassword = builder.AddParameter("sqlPassword", AccessCommon.Constants.DevPassword);
 var sql = builder.AddSqlServer("sqlserver", sqlPassword)
                  .WithDataVolume();
 
@@ -16,7 +16,7 @@ var blobs = builder
 
 
 // Add ASP.NET Core API and reference the database
-var apiService = builder.AddProject<Projects.Ppy_Host_Api>("ppy-host-api");
+var apiService = builder.AddProject<Projects.Host_Api>("ppy-host-api");
 apiService
     .WithReference(db, "SqlAzure")
     .WaitFor(db)
@@ -44,7 +44,7 @@ apiService
         }
     );
 
-var proxy = builder.AddProject<Projects.Ppy_Host_Proxy>("ppy-host-proxy");
+var proxy = builder.AddProject<Projects.Host_Proxy>("ppy-host-proxy");
 proxy.WaitFor(apiService)
     .WithCommand(
         name: "scalar-docs",

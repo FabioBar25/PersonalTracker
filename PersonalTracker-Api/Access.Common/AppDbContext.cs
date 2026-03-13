@@ -4,7 +4,7 @@ using PersonalTracker.Api.Models;
 
 public class AppDbContext : IdentityDbContext
 {
-    public AppDbContext(DbContextOptions<AppDbContext> options)
+    public AppDbContext(DbContex<AppDbContext> options)
         : base(options) {}
 
     public DbSet<TaskItem> Tasks => Set<TaskItem>();

@@ -3,3 +3,9 @@ C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker3\Manager\obj\Debug\net9
 C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker3\Manager\obj\Debug\net9.0\Manager.AssemblyInfo.cs
 C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker3\Manager\obj\Debug\net9.0\Manager.csproj.CoreCompileInputs.cache
 C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker3\Manager\obj\Debug\net9.0\Manager.sourcelink.json
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\obj\Debug\net9.0\Manager.csproj.AssemblyReference.cache
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\obj\Debug\net9.0\Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\obj\Debug\net9.0\Manager.AssemblyInfoInputs.cache
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\obj\Debug\net9.0\Manager.AssemblyInfo.cs
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\obj\Debug\net9.0\Manager.csproj.CoreCompileInputs.cache
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Manager\obj\Debug\net9.0\Manager.sourcelink.json

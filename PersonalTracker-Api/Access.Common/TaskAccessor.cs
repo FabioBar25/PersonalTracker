@@ -1,4 +1,6 @@
-﻿public class TaskAccessor
+﻿using Microsoft.EntityFrameworkCore;
+
+public class TaskAccessor
 {
     private readonly AppDbContext _context;
 

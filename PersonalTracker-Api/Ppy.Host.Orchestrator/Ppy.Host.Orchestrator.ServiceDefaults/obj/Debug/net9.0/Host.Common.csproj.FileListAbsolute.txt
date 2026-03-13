@@ -1,0 +1,13 @@
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.ServiceDefaults\bin\Debug\net9.0\Host.Common.deps.json
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.ServiceDefaults\bin\Debug\net9.0\Host.Common.dll
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.ServiceDefaults\bin\Debug\net9.0\Host.Common.pdb
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.ServiceDefaults\obj\Debug\net9.0\Host.Common.csproj.AssemblyReference.cache
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.ServiceDefaults\obj\Debug\net9.0\Host.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.ServiceDefaults\obj\Debug\net9.0\Host.Common.AssemblyInfoInputs.cache
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.ServiceDefaults\obj\Debug\net9.0\Host.Common.AssemblyInfo.cs
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.ServiceDefaults\obj\Debug\net9.0\Host.Common.csproj.CoreCompileInputs.cache
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.ServiceDefaults\obj\Debug\net9.0\Host.Common.sourcelink.json
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.ServiceDefaults\obj\Debug\net9.0\Host.Common.dll
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.ServiceDefaults\obj\Debug\net9.0\refint\Host.Common.dll
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.ServiceDefaults\obj\Debug\net9.0\Host.Common.pdb
+C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.ServiceDefaults\obj\Debug\net9.0\ref\Host.Common.dll
