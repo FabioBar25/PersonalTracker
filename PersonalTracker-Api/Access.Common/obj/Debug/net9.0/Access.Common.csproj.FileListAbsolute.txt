@@ -1,0 +1,5 @@
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker3\Access.Common\obj\Debug\net9.0\Access.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker3\Access.Common\obj\Debug\net9.0\Access.Common.AssemblyInfoInputs.cache
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker3\Access.Common\obj\Debug\net9.0\Access.Common.AssemblyInfo.cs
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker3\Access.Common\obj\Debug\net9.0\Access.Common.csproj.CoreCompileInputs.cache
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker3\Access.Common\obj\Debug\net9.0\Access.Common.sourcelink.json
