@@ -1,78 +1,34 @@
 import { inject } from '@angular/core'
-import {
-  signalStore,
-  withState,
-  withMethods,
-  patchState
-} from '@ngrx/signals'
-
-import {
-  withEntities,
-  setAllEntities,
-  addEntity,
-  updateEntity
-} from '@ngrx/signals/entities'
-
+import { signalStore, withState, withMethods } from '@ngrx/signals'
 import { rxMethod } from '@ngrx/signals/rxjs-interop'
-import { pipe, switchMap, tap, map } from 'rxjs'
+import { switchMap, tap } from 'rxjs/operators'
+import { Task } from '../../core/tasks/task-model'
 import { TaskApi } from '../../core/api/task-api'
-import { Task } from '../../models/task.model'
 
 type TaskState = {
-  loading: boolean
+  tasks: Task[]
 }
 
 export const TaskStore = signalStore(
-
   { providedIn: 'root' },
-
-  withState<TaskState>({
-    loading: false
-  }),
-
-  withEntities<Task>(),
-
+  withState<TaskState>({ tasks: [] }),
   withMethods((store, api = inject(TaskApi)) => ({
+    
+    loadTasks: () => {
+      api.getTasks().subscribe(tasks => store.setTasks(tasks));
+    },
 
-    loadTasks: rxMethod<void>(
-      pipe(
-        tap(() => patchState(store, { loading: true })),
+    addTask: ({ title }: { title: string }) => {
+      api.createTask(title).subscribe(newTask => store.setTasks([...store.tasks(), newTask]));
+    },
 
-        switchMap(() => api.getTasks()),
-
-        tap((tasks) => {
-          patchState(store, setAllEntities(tasks))
-          patchState(store, { loading: false })
-        })
-      )
-    ),
-
-    createTask: rxMethod<string>(
-      pipe(
-        switchMap(title => api.createTask(title)),
-
-        tap(task => {
-          patchState(store, addEntity(task))
-        })
-      )
-    ),
-
-    completeTask: rxMethod<number>(
-      pipe(
-        switchMap(id => api.completeTask(id).pipe(
-          map(() => id)
-        )),
-
-        tap((id: number) => {
-          patchState(store,
-            updateEntity({
-              id,
-              changes: { isCompleted: true }
-            })
-          )
-        })
-      )
-    )
+    completeTask: ({ id }: { id: string }) => {
+      api.completeTask(id).subscribe(updatedTask => {
+        store.setTasks(
+          store.tasks().map(t => t.id === updatedTask.id ? updatedTask : t)
+        );
+      });
+    }
 
   }))
 )

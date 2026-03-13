@@ -1,12 +1,11 @@
+import { Injectable, inject } from '@angular/core'
 import { HttpClient } from '@angular/common/http'
-import { inject, Injectable } from '@angular/core'
-import { Task } from '../../models/task.model'
+import { Task } from '../tasks/task-model'
 
 @Injectable({ providedIn: 'root' })
 export class TaskApi {
-
   private http = inject(HttpClient)
-  private baseUrl = '/api/tasks'
+  private baseUrl = 'https://localhost:4200/tasks'
 
   getTasks() {
     return this.http.get<Task[]>(this.baseUrl)
@@ -16,8 +15,7 @@ export class TaskApi {
     return this.http.post<Task>(this.baseUrl, { title })
   }
 
-  completeTask(id: number) {
-    return this.http.put(`${this.baseUrl}/${id}/complete`, {})
+  completeTask(id: string) {
+    return this.http.patch<Task>(`${this.baseUrl}/${id}/complete`, {})
   }
-
 }

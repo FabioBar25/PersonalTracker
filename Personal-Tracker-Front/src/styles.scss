@@ -1,1 +1,40 @@
 /* You can add global styles to this file, and also import other style files */
+/* Import variables first */
+@import './styles/_variables';
+
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $font-family;
+  background-color: $light-gray;
+  color: $text-dark;
+}
+
+/* Links */
+a {
+  color: $primary-green;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/* Buttons */
+button {
+  font-family: inherit;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+/* Utility */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}

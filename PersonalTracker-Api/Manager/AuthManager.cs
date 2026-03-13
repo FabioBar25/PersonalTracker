@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity;
+
 public class AuthManager
 {
     private readonly UserManager<IdentityUser> _userManager;

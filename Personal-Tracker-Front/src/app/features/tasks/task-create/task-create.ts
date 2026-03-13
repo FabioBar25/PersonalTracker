@@ -22,7 +22,7 @@ export class TaskCreateComponent {
   create() {
     if (!this.title()) return
 
-    this.store.createTask(this.title())
+    this.store.addTask({ title: this.title() })
 
     this.title.set('')
   }

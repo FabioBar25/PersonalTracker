@@ -18,7 +18,6 @@ export class LoginComponent {
   password = signal('')
 
   login() {
-
     this.authStore.login({
       email: this.email(),
       password: this.password()

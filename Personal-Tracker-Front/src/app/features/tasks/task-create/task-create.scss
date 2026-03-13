@@ -1,0 +1,32 @@
+.task-create-card {
+  display: flex;
+  margin-bottom: 2rem;
+
+  input {
+    flex: 1;
+    padding: 0.75rem 1rem;
+    border: 1px solid $border-color;
+    border-radius: 6px 0 0 6px;
+    outline: none;
+    font-size: 1rem;
+
+    &:focus {
+      border-color: $primary-green;
+      box-shadow: 0 0 0 2px rgba(45, 190, 96, 0.2);
+    }
+  }
+
+  button {
+    padding: 0.75rem 1.5rem;
+    background-color: $primary-green;
+    border: none;
+    color: white;
+    border-radius: 0 6px 6px 0;
+    cursor: pointer;
+    font-weight: bold;
+
+    &:hover {
+      background-color: darken($primary-green, 10%);
+    }
+  }
+}

@@ -1,0 +1,30 @@
+.app-header {
+  background-color: $primary-green;
+  color: white;
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: $card-shadow;
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 1.5rem;
+    font-weight: bold;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.app-main {
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}

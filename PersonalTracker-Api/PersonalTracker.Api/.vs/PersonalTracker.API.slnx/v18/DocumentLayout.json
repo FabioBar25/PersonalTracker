@@ -3,10 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\PersonalTracker.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9543D6A7-F7A9-1AD9-3A15-0FBE0FCBA2F0}|..\\Host\\Host.Api.csproj|c:\\users\\joako\\onedrive\\documents\\github\\personaltracker3\\personaltracker-api\\host\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58529F92-2656-0CF3-6890-CA5E797B3782}|..\\Access.Common\\Access.Common.csproj|c:\\users\\joako\\onedrive\\documents\\github\\personaltracker3\\personaltracker-api\\access.common\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9543D6A7-F7A9-1AD9-3A15-0FBE0FCBA2F0}|..\\Host\\Host.Api.csproj|c:\\users\\joako\\onedrive\\documents\\github\\personaltracker3\\personaltracker-api\\host\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58529F92-2656-0CF3-6890-CA5E797B3782}|..\\Access.Common\\Access.Common.csproj|c:\\users\\joako\\onedrive\\documents\\github\\personaltracker3\\personaltracker-api\\access.common\\iconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58529F92-2656-0CF3-6890-CA5E797B3782}|..\\Access.Common\\Access.Common.csproj|c:\\users\\joako\\onedrive\\documents\\github\\personaltracker3\\personaltracker-api\\access.common\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E78621-FC51-7855-2D21-D03D27053779}|..\\Manager\\Manager.csproj|c:\\users\\joako\\onedrive\\documents\\github\\personaltracker3\\personaltracker-api\\manager\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\Host\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53E78621-FC51-7855-2D21-D03D27053779}|..\\Manager\\Manager.csproj|c:\\users\\joako\\onedrive\\documents\\github\\personaltracker3\\personaltracker-api\\manager\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -16,9 +25,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\Manager\\AuthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\Host\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,74 +34,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\Host\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\Host\\Program.cs",
               "ToolTip": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\Host\\Program.cs",
               "RelativeToolTip": "..\\..\\Host\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T02:33:51.358Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Host\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "..\\Host\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Host\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "..\\Host\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T04:51:39.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Host\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "..\\Host\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Host\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "..\\Host\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Access.Common\\IConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Access.Common\\IConfiguration.cs",
+              "ToolTip": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Access.Common\\IConfiguration.cs",
+              "RelativeToolTip": "..\\Access.Common\\IConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T04:51:35.14Z",
+              "WhenOpened": "2026-03-13T05:46:44.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Access.Common\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Access.Common\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Access.Common\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Access.Common\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:46:41.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Access.Common\\JwtService.cs",
+              "RelativeDocumentMoniker": "..\\Access.Common\\JwtService.cs",
+              "ToolTip": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Access.Common\\JwtService.cs",
+              "RelativeToolTip": "..\\Access.Common\\JwtService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:42:43.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Manager\\TaskManager.cs",
+              "RelativeDocumentMoniker": "..\\Manager\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Manager\\TaskManager.cs",
+              "RelativeToolTip": "..\\Manager\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:27:58.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AuthManager.cs",
               "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Manager\\AuthManager.cs",
               "RelativeDocumentMoniker": "..\\Manager\\AuthManager.cs",
               "ToolTip": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Manager\\AuthManager.cs",
               "RelativeToolTip": "..\\Manager\\AuthManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T04:51:29.457Z"
+              "WhenOpened": "2026-03-13T04:51:29.457Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Manager.csproj",
               "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Manager\\Manager.csproj",
               "RelativeDocumentMoniker": "..\\Manager\\Manager.csproj",
               "ToolTip": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\Manager\\Manager.csproj",
               "RelativeToolTip": "..\\Manager\\Manager.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-13T04:51:27.307Z"
+              "WhenOpened": "2026-03-13T04:51:27.307Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "AuthManager.cs",
               "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\Manager\\AuthManager.cs",
               "RelativeDocumentMoniker": "..\\..\\Manager\\AuthManager.cs",
