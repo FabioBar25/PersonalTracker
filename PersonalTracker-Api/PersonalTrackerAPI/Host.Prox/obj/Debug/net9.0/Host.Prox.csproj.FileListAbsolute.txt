@@ -1,0 +1,9 @@
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\PersonalTrackerAPI\Host.Prox\obj\Debug\net9.0\Host.Prox.csproj.AssemblyReference.cache
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\PersonalTrackerAPI\Host.Prox\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\PersonalTrackerAPI\Host.Prox\obj\Debug\net9.0\Host.Prox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\PersonalTrackerAPI\Host.Prox\obj\Debug\net9.0\Host.Prox.AssemblyInfoInputs.cache
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\PersonalTrackerAPI\Host.Prox\obj\Debug\net9.0\Host.Prox.AssemblyInfo.cs
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\PersonalTrackerAPI\Host.Prox\obj\Debug\net9.0\Host.Prox.csproj.CoreCompileInputs.cache
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\PersonalTrackerAPI\Host.Prox\obj\Debug\net9.0\Host.Prox.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\PersonalTrackerAPI\Host.Prox\obj\Debug\net9.0\Host.Prox.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\PersonalTrackerAPI\Host.Prox\obj\Debug\net9.0\Host.Prox.sourcelink.json

@@ -1,0 +1,6 @@
+@Host.Prox_HostAddress = http://localhost:5216
+
+GET {{Host.Prox_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

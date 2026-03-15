@@ -3,8 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 public class AppDbContext : IdentityDbContext
 {
-    public AppDbContext(DbContex<AppDbContext> options)
+    public AppDbContext(DbContextOptions <AppDbContext> options)
         : base(options) {}
-
     public DbSet<TaskItem> Tasks => Set<TaskItem>();
 }

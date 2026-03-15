@@ -1,8 +1,0 @@
-C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.AppHost\obj\Debug\net9.0\Host.Orchestrator.csproj.AssemblyReference.cache
-C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.AppHost\obj\Debug\net9.0\Host.Orchestrator.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.AppHost\obj\Debug\net9.0\Host.Orchestrator.AssemblyInfoInputs.cache
-C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.AppHost\obj\Debug\net9.0\Host.Orchestrator.AssemblyInfo.cs
-C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.AppHost\obj\Debug\net9.0\Host.Orchestrator.csproj.CoreCompileInputs.cache
-C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.AppHost\obj\Debug\net9.0\Aspire\references\Host_Proxy.ProjectMetadata.g.cs
-C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.AppHost\obj\Debug\net9.0\Aspire\references\_AppHost.ProjectMetadata.g.cs
-C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Ppy.Host.Orchestrator\Ppy.Host.Orchestrator.AppHost\obj\Debug\net9.0\Host.Orchestrator.sourcelink.json

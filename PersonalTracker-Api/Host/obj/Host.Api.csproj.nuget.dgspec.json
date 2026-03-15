@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\Host.Api.csproj": {}
+    "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\Host.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\Access.Common.csproj": {
+    "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\Access.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\Access.Common.csproj",
+        "projectUniqueName": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\Access.Common.csproj",
         "projectName": "Access.Common",
-        "projectPath": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\Access.Common.csproj",
-        "packagesPath": "C:\\Users\\FabioBareiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\obj\\",
+        "projectPath": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\Access.Common.csproj",
+        "packagesPath": "C:\\Users\\joako\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\FabioBareiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joako\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -54,6 +54,32 @@
             "Microsoft.AspNetCore.Http": {
               "target": "Package",
               "version": "[2.3.9, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.3.9, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.5, )"
+            },
+            "Microsoft.Net.Compilers.Toolset": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.Net.Sdk.Compilers.Toolset": {
+              "target": "Package",
+              "version": "[10.0.201, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.16.0, )"
             }
           },
           "imports": [
@@ -72,24 +98,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\Host.Api.csproj": {
+    "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\Host.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\Host.Api.csproj",
+        "projectUniqueName": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\Host.Api.csproj",
         "projectName": "Host.Api",
-        "projectPath": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\Host.Api.csproj",
-        "packagesPath": "C:\\Users\\FabioBareiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\obj\\",
+        "projectPath": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\Host.Api.csproj",
+        "packagesPath": "C:\\Users\\joako\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\FabioBareiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joako\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -105,8 +131,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Manager.csproj": {
-                "projectPath": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Manager.csproj"
+              "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Manager.csproj": {
+                "projectPath": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Manager.csproj"
               }
             }
           }
@@ -121,7 +147,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -151,24 +177,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Manager.csproj": {
+    "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Manager.csproj",
+        "projectUniqueName": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Manager.csproj",
         "projectName": "Manager",
-        "projectPath": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Manager.csproj",
-        "packagesPath": "C:\\Users\\FabioBareiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\obj\\",
+        "projectPath": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\Manager.csproj",
+        "packagesPath": "C:\\Users\\joako\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Manager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\FabioBareiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joako\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -184,11 +210,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\Access.Common.csproj": {
-                "projectPath": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\Access.Common.csproj"
-              },
-              "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.ServiceDefaults\\Host.Common.csproj": {
-                "projectPath": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.ServiceDefaults\\Host.Common.csproj"
+              "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\Access.Common.csproj": {
+                "projectPath": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Access.Common\\Access.Common.csproj"
               }
             }
           }
@@ -203,15 +226,23 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.14, )"
+            },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
               "version": "[2.3.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.5, )"
             },
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
@@ -234,106 +265,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.ServiceDefaults\\Host.Common.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.ServiceDefaults\\Host.Common.csproj",
-        "projectName": "Host.Common",
-        "projectPath": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.ServiceDefaults\\Host.Common.csproj",
-        "packagesPath": "C:\\Users\\FabioBareiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Ppy.Host.Orchestrator\\Ppy.Host.Orchestrator.ServiceDefaults\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\FabioBareiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net9.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.100"
-      },
-      "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
-          "dependencies": {
-            "Microsoft.Extensions.Http.Resilience": {
-              "target": "Package",
-              "version": "[10.1.0, )"
-            },
-            "Microsoft.Extensions.ServiceDiscovery": {
-              "target": "Package",
-              "version": "[10.1.0, )"
-            },
-            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
-              "target": "Package",
-              "version": "[1.14.0, )"
-            },
-            "OpenTelemetry.Extensions.Hosting": {
-              "target": "Package",
-              "version": "[1.14.0, )"
-            },
-            "OpenTelemetry.Instrumentation.AspNetCore": {
-              "target": "Package",
-              "version": "[1.14.0, )"
-            },
-            "OpenTelemetry.Instrumentation.Http": {
-              "target": "Package",
-              "version": "[1.14.0, )"
-            },
-            "OpenTelemetry.Instrumentation.Runtime": {
-              "target": "Package",
-              "version": "[1.14.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Access.Common": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

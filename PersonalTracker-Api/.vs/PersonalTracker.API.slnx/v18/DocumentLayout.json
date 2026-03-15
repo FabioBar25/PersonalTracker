@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker3\\PersonalTracker-Api\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCB6CAB-9F3A-477C-A0D6-611AD2E2B7B5}|Host.Orchestrator\\Host.Orchestrator.csproj|c:\\users\\joako\\onedrive\\documents\\github\\personaltracker\\personaltracker-api\\host.orchestrator\\host.orchestrator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DCB6CAB-9F3A-477C-A0D6-611AD2E2B7B5}|Host.Orchestrator\\Host.Orchestrator.csproj|solutionrelative:host.orchestrator\\host.orchestrator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57492CD-E5C3-4FA2-9BBE-1B9BA3883E4C}|Host.Proxy\\Host.Proxy.csproj|c:\\users\\joako\\onedrive\\documents\\github\\personaltracker\\personaltracker-api\\host.proxy\\host.proxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C57492CD-E5C3-4FA2-9BBE-1B9BA3883E4C}|Host.Proxy\\Host.Proxy.csproj|solutionrelative:host.proxy\\host.proxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Host.Proxy",
+              "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host.Proxy\\Host.Proxy.csproj",
+              "RelativeDocumentMoniker": "Host.Proxy\\Host.Proxy.csproj",
+              "ToolTip": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host.Proxy\\Host.Proxy.csproj",
+              "RelativeToolTip": "Host.Proxy\\Host.Proxy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T15:11:28.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Host.Orchestrator",
+              "DocumentMoniker": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host.Orchestrator\\Host.Orchestrator.csproj",
+              "RelativeDocumentMoniker": "Host.Orchestrator\\Host.Orchestrator.csproj",
+              "ToolTip": "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Host.Orchestrator\\Host.Orchestrator.csproj",
+              "RelativeToolTip": "Host.Orchestrator\\Host.Orchestrator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T15:11:08.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
