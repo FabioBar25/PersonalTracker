@@ -9,13 +9,13 @@ namespace Projects;
 [global::System.CodeDom.Compiler.GeneratedCode("Aspire.Hosting", null)]
 [global::System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverage(Justification = "Generated code.")]
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
-public class Host_Orchest
+public class Host_Orchestrator
 #pragma warning restore CS8981
 {
-    private Host_Orchest() { }
+    private Host_Orchestrator() { }
 
     /// <summary>
     /// The path to the Aspire Host project.
     /// </summary>
-    public static string ProjectPath => """C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\PersonalTrackerAPI\Host.Orchest""";
+    public static string ProjectPath => """C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\PersonalTrackerAPI\Host.Orchest""";
 }

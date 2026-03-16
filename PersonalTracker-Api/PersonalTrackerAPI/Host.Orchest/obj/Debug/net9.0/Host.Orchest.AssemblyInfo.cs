@@ -12,23 +12,23 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("acfea986-d9d4-45b8-8086-304910eceee6")]
-[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Users\\joako\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.1.0\\tools\\" +
-    "dcp.exe")]
-[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Users\\joako\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.1.0\\tools\\" +
-    "ext\\")]
-[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\joako\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.1.0\\tools\\" +
-    "ext\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Pers" +
-    "onalTrackerAPI\\Host.Orchest")]
+[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Users\\FabioBareiro\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.1.0" +
+    "\\tools\\dcp.exe")]
+[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Users\\FabioBareiro\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.1.0" +
+    "\\tools\\ext\\")]
+[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\FabioBareiro\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.1.0" +
+    "\\tools\\ext\\bin\\")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Person" +
+    "alTrackerAPI\\Host.Orchest")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "Host.Orchest.csproj")]
-[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\joako\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\13.1.0\\tools\\Aspire.D" +
-    "ashboard.exe")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\Users\\joako\\OneDrive\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Pers" +
-    "onalTrackerAPI\\Host.Orchest\\obj\\")]
+[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\FabioBareiro\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\13.1.0\\tools\\A" +
+    "spire.Dashboard.exe")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\Users\\FabioBareiro\\Documents\\GitHub\\PersonalTracker\\PersonalTracker-Api\\Person" +
+    "alTrackerAPI\\Host.Orchest\\obj\\")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Host.Orchest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+751e0dc8fd9773c0b81bed95886edfa527427bc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9e79279acec8d47dfb6b72e8a4e9fcdd54d5241")]
 [assembly: System.Reflection.AssemblyProductAttribute("Host.Orchest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Host.Orchest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

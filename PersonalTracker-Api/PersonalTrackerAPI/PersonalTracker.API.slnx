@@ -4,8 +4,8 @@
   </Folder>
   <Folder Name="/Host/">
     <Project Path="../Host/Host.Api.csproj" />
-    <Project Path="Host.Orchest/Host.Orchest.csproj" Id="e08bf75b-1d37-47df-a583-187f5da03db3" />
-    <Project Path="Host.Prox/Host.Prox.csproj" Id="51ecf3ab-f176-4fe2-87fe-9758068d8a14" />
+    <Project Path="Host.Orchest/Host.Orchestrator.csproj" Id="e08bf75b-1d37-47df-a583-187f5da03db3" />
+    <Project Path="Host.Prox/Host.Proxy.csproj" Id="51ecf3ab-f176-4fe2-87fe-9758068d8a14" />
   </Folder>
   <Folder Name="/Manager/">
     <Project Path="../Manager/Manager.csproj" />

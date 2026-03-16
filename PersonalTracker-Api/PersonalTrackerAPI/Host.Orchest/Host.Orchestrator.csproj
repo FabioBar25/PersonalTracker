@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Host\Host.Api.csproj" />
+    <ProjectReference Include="..\Host.Prox\Host.Proxy.csproj" />
   </ItemGroup>
 
 </Project>

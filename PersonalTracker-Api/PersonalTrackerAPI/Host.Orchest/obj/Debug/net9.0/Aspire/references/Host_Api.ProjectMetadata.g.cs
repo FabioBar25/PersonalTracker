@@ -15,7 +15,7 @@ public class Host_Api : global::Aspire.Hosting.IProjectMetadata
     /// <summary>
     /// The path to the Host_Api project.
     /// </summary>
-    public string ProjectPath => """C:\Users\joako\OneDrive\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Host\Host.Api.csproj""";
+    public string ProjectPath => """C:\Users\FabioBareiro\Documents\GitHub\PersonalTracker\PersonalTracker-Api\Host\Host.Api.csproj""";
 
     /// <summary>
     /// Gets a value indicating whether building the project before running it should be suppressed.
